@@ -1,9 +1,9 @@
 import React from 'react'
 
 import { Route, Routes, Link } from 'react-router-dom'
-import Home from './pages/home'
-import Agence from './pages/agence'
-import Projects from './pages/projects'
+import Home from './pages/Home'
+import Agence from './pages/Agence'
+import Projects from './pages/Projects'
 
 
 const App = () => {
