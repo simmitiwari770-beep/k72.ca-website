@@ -1,7 +1,7 @@
 import React from 'react'
-import Video from '../components/home/video'
-import Homebottomtext from '../components/home/homebottomtext'
-import Hometoptext from '../components/home/hometoptext'
+import Video from '../components/home/Video'
+import Homebottomtext from '../components/home/Homebottomtext'
+import Hometoptext from '../components/home/Hometoptext'
 const Home = () => {
   return (
     <div>
